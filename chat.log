@@ -1,0 +1,11 @@
+2023-04-25 11:54:21,589 - [+] Abhishek connected to the server
+2023-04-25 11:54:21,591 - [+] Broadcast message to all the clients that Abhishek joined the chat
+2023-04-25 11:54:21,591 - b'[+] Connected to the server...'
+2023-04-25 11:54:38,633 - [+] Aman connected to the server
+2023-04-25 11:54:38,634 - [+] Broadcast message to all the clients that Aman joined the chat
+2023-04-25 11:54:38,634 - b'[+] Connected to the server...'
+2023-04-25 11:54:45,304 - Aman: Hi Guy's
+2023-04-25 11:54:51,039 - Abhishek: Hello Aman
+2023-04-25 11:55:01,034 - Aman: Hey, Abhishek
+2023-04-25 11:55:03,659 - Aman left the chat...
+2023-04-25 11:55:07,240 - Abhishek left the chat...
