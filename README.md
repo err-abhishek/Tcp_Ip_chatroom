@@ -28,7 +28,7 @@ The TCP/IP Chatroom is a chat application built using Python and the TCP/IP prot
    - Start typing messages in the client's interface to send messages to other users in the chatroom.
    - Receive incoming messages in real-time from other users connected to the server.
 ## Working of Tcp/Ip Chatroom
-![Watch the video](Tcp-Ip working.mp4)
+![Watch the working](Tcp-Ip-working.gif)
 
 
 ## Contributing
